@@ -21,3 +21,4 @@ This repository serves as a personal archive of my A Level programming work and 
 
 # Notes
 Each program is contained in its own Python file and can be run independently.
+(Also, I am working on adding comments for better understanding but there may be some programs that may be difficult to understand because of them being my assignments, hence, missing question statements)
