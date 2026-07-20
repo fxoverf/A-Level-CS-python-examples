@@ -6,7 +6,7 @@ A collection of Python programs, algorithms, and problem-solving exercises that 
 This repository contains self-contained Python scripts covering a range of programming concepts taught during the A Level course. The programs were written as practice, assignments, and implementations of common algorithms and data structures.
 
 # Topics Covered
-1. Absolute basics
+1. Functions and procedures
 2. Searching algorithms
 3. Sorting algorithms
 4. Recursion
